@@ -1,4 +1,4 @@
-# HomeTemperatureMonitor
+# Home Temperature Monitor
 Google Apps Script for collecting Home Temperature Readings from AmbientWeather REST API sending email alert when afternoon outdoor temperature drops below indoor value.
 
 This collection of scripts collects temperatures from a connected home weather station such as [AmbientWeather WS-8482](https://www.ambientweather.com/amws8482x3.html). 
