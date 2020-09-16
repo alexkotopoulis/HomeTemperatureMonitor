@@ -8,7 +8,7 @@ A threshold temperature can be used to limit the message to times where the indo
 Historical temperatures are kept in a Google sheet doc called House Temperatures; a new sheet within the doc is started every month.
 This function should be called through a time-based trigger; it's recommended to call every 2 minutes or less as a spreadsheet can only hold 40k rows in a sheet.
 
-Installation steps:
+Installation Steps:
 
 1. Create Google Apps Script project at https://script.google.com/.
 2. Import the *.gs files from GIT into the project. This can best be done using the [Google Apps Script GitHub Assistant](https://chrome.google.com/webstore/detail/google-apps-script-github/lfjcgcmkmjjlieihflfhjopckgpelofo?hl=en).
